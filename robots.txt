@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ecusilynd.github.io/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/app/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/assets/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/css/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/includes/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/item/sitemap.html.gz
+Sitemap: https://ecusilynd.github.io/src/sitemap.html.gz
